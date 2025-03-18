@@ -1,5 +1,5 @@
 # Project: Launchers Management System
-Owner: Nofech Ben Or
+Note: This project is a learning project, developed as part of a course. Many implementation choices were made for educational purposes and may not follow best practices in real-world software development.
 
 This project simulates a logistic system that supports different missile launchers.
 this is a learning-project, aimed at understanding basic concepts in c#.
